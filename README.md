@@ -10,7 +10,7 @@ Tu programa debería ejecutarse de la siguiente manera:
 ORDENACION Y BUSQUEDA
 =====================
 
-Proporcione el número de elementos:5
+Proporcione el numero de elementos:5
 Proporcione el elemento 1:3
 Proporcione el elemento 2:9
 Proporcione el elemento 3:6
